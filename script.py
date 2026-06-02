@@ -1,3 +1,3 @@
 import sys
 
-print(f"Python version is: {sys.version}")
+print(f"Python version met marki is: {sys.version}")
