@@ -1,4 +1,4 @@
-from conversions import mile_to_feet, convert
+from conversions import convert, mile_to_feet
 
 
 def test_function_converts_miles():
