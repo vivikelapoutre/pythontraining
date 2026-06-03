@@ -1,4 +1,5 @@
 [tool.poetry]
+package-mode = false
 name = "example%20project"
 version = "0.1.0"
 description = "Excercises for course"
