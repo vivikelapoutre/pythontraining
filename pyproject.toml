@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "example%20project"
+version = "0.1.0"
+description = "Excercises for course"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^8.2.0"
+pytest-cov = "^5.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

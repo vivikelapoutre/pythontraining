@@ -1,0 +1,9 @@
+# ignore log files
+*.log
+
+# ignore cache files
+*.pyc
+
+# ignore coverage output
+coverage.xml
+.coverage
