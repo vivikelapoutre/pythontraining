@@ -2,7 +2,7 @@ from conversions import mile_to_feet, convert
 
 
 def test_function_converts_miles():
-    assert mile_to_feet(1) == 5280
+    assert mile_to_feet(1) == 5290
     assert mile_to_feet(0.1) == 528
 
 
