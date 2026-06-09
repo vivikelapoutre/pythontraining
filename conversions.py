@@ -10,7 +10,7 @@ def convert(a):
 
 
 if __name__ == "__main__":
-    distance_in_km = 10
+    distance_in_km = 50
 
     distance_in_miles = convert(distance_in_km)
     print(f"{distance_in_km} km is {distance_in_miles} mijl")
